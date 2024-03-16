@@ -1,6 +1,6 @@
-package repository;
+package com.timeTableManagement.repository;
 
-import models.User;
+import com.timeTableManagement.models.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;

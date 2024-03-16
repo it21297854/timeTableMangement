@@ -1,4 +1,4 @@
-package models;
+package com.timeTableManagement.models;
 
 public enum ERole {
 

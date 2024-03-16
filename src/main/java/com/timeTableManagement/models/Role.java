@@ -1,4 +1,4 @@
-package models;
+package com.timeTableManagement.models;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
@@ -33,7 +33,4 @@ public class Role {
         this.name = name;
     }
 
-    public String getNameAsString() {
-        return name.toString();
-    }
 }
