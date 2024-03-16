@@ -1,4 +1,4 @@
-package com.timeTableManagement.demo;
+package com.timeTableManagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
